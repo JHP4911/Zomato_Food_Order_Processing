@@ -1,0 +1,44 @@
+.header{
+    height: 80px;
+    width: 100%;
+    background-color: #ce0505;
+    margin-bottom: 5px;
+}
+.logo{
+    font-size: 40px;
+    color: #eb2929;
+    background: white;
+    position: absolute;
+    border-radius: 50%;
+    margin-top: -60px;
+    margin-left: 50px;
+    display: block;
+    margin-right: 50%;
+    font-family: sans-serif;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+}
+
+.login{
+    color: white;
+    margin-left: 80%;
+    background-color: #ce0505;
+    border: none;
+    font-size: 16px;
+    margin-top: 25PX;
+}
+.create-new-account{
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 5PX;
+    border-color: white;
+    border-radius: 3px;
+    background-color: #ce0505;
+    font-family: sans-serif;
+
+}
+.signin{
+    position: 'absolute'; top: '3%'; margin-left: '4px'; color: 'white'; border-color: 'white'
+}
